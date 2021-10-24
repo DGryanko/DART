@@ -19,3 +19,12 @@ doc/api/
 *.js_
 *.js.deps
 *.js.map
+
+# Папки которые Git должен игнорировать
+.vscode
+.idea
+.DS_Store
+node_modules
+.env
+build/
+*.psd
